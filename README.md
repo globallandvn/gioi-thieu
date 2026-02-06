@@ -1,7 +1,7 @@
 # gioi-thieu
-Công ty Global Land Việt Nam chuyên cung cấp dịch vụ tư vấn Mua bán và Cho thuê Bất Động Sản tại Việt Nam. Với đội ngũ chuyên gia giàu kinh nghiệm và phong cách làm việc chuyên nghiệp, cùng hệ thống sản phẩm đa dạng, chúng tôi cam kết mang đến cho Quý khách hàng những giải pháp tối ưu và hiệu quả nhất, đáp ứng mọi nhu cầu và mong muốn trong lĩnh vực bất động sản.
+Công ty <a href="https://globalland.vn"> Global Land Việt Nam </a>chuyên cung cấp dịch vụ tư vấn Mua bán và Cho thuê Bất Động Sản tại Việt Nam. Với đội ngũ chuyên gia giàu kinh nghiệm và phong cách làm việc chuyên nghiệp, cùng hệ thống sản phẩm đa dạng, chúng tôi cam kết mang đến cho Quý khách hàng những giải pháp tối ưu và hiệu quả nhất, đáp ứng mọi nhu cầu và mong muốn trong lĩnh vực bất động sản.
 
-(*) Bất Động Sản tại Hồ Chí Minh: https://globalland.vn/bat-dong-san
+(*) Bất Động Sản tại Hồ Chí Minh: https://globalland.vn/bat-dong-san-cho-thue
 
 (*) Căn hộ Cho Thuê tại Hồ Chí Minh: https://globalland.vn/can-ho-cho-thue-tp-hcm
 
